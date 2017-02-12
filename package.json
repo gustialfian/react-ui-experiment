@@ -2,7 +2,7 @@
   "name": "react-ui-experiment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://gustialfian.github.io/react-ui-experiment",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.8.5"

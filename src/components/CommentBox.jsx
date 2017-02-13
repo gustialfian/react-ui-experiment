@@ -41,6 +41,7 @@ const CommentButton = (props) => {
   let textInput
   const handleClick = () => {
     props.onClick(textInput.value)
+    textInput.value = ''
   }
   return (
     <div className="ui action input">
